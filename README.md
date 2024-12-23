@@ -1,5 +1,9 @@
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/header.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzd35AUeWYHCRUWBamYMRhKZS70DTjW7eFAQ&s)" alt="Header" width="100%"/>
+<div style="text-align: center;">
+  <img 
+    src="public\Let's_connect.jpg" 
+    alt="Let's Connect Header" 
+    style="width: 100%;" 
+  />
 </div>
 
 <h1 align="center">
@@ -20,9 +24,9 @@
 <br />
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/coding.gif" width="360" />
+  <!-- <img align="right" src="public/Kakashi-hatake-poster.png" width="360" /> -->
   
-  ### 🚀 Quick Facts
+  ### 🚀 Quick Facts 
   - 🎯 Full Stack Developer specializing in modern web technologies
   - 👨‍💻 Leading CodeLab community with 200+ student developers
   - 🌱 Building with Next.js, React, and Cloud Technologies
@@ -102,7 +106,7 @@
     <td width="50%">
       <h3>FormLab</h3>
       <a href="https://formlab.vercel.app">
-        <img src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/formlab-preview.png" alt="FormLab"/>
+        <img src="public/FormLab.png" alt="FormLab"/>
       </a>
       <p>
         <a href="https://formlab.vercel.app">
@@ -117,7 +121,7 @@
     <td width="50%">
       <h3>CodeLab</h3>
       <a href="https://codelab-one.vercel.app">
-        <img src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/codelab-preview.png" alt="CodeLab"/>
+        <img src="public/CodeLab.png" alt="CodeLab"/>
       </a>
       <p>
         <a href="https://codelab-one.vercel.app">
