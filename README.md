@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Vyas;Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Vyas;Full+Stack+Developer;Tech+Innovator;Open+Source+Champion" />
 </h1>
 
 <div align="center">
@@ -11,20 +11,20 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/Vyas106?label=Followers&style=for-the-badge&color=6E57F7)](https://github.com/Vyas106)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6E57F7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-vyas-5292692aa)
-  [![Email](https://img.shields.io/badge/Email-Contact-6E57F7?style=for-the-badge&logo=gmail)](mailto:vyasvishal.work@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E57F7?style=for-the-badge&logo=safari)](https://vishalvyas.vercel.app)
 </div>
 
 <div align="center">
-  <h2>💫 About Me</h2>
+  <h2>🚀 Tech Visionary | Problem Solver | Innovation Leader</h2>
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/coding.gif"/>
   
   <p align="left" style="margin: 20px;">
-    🚀 Full Stack Developer passionate about crafting exceptional digital experiences<br/>
-    👨‍💻 Currently leading CodeLab, fostering tech innovation<br/>
-    🌱 Building with Next.js, React, and Cloud Technologies<br/>
-    🎯 Focus on scalable, performant applications<br/>
-    🤝 Open to collaborating on innovative projects<br/>
-    ⚡ Fun fact: I love solving complex algorithmic challenges
+    🎯 Architecting the future of web with cutting-edge technologies<br/>
+    🌟 Transforming ideas into scalable, enterprise-grade solutions<br/>
+    🔮 Pioneering AI-driven development workflows<br/>
+    🎨 Crafting pixel-perfect, accessible user experiences<br/>
+    🌍 Building for the next billion users<br/>
+    ⚡ Fun fact: I can debug code faster than I can find my keys
   </p>
 </div>
 
@@ -32,151 +32,133 @@
 
 ---
 
-<h2 align="center">🛠️ Technology Arsenal</h2>
+<h2 align="center">🛠️ Technology Excellence</h2>
 
 <details open>
-<summary><b>🎨 Frontend Mastery</b></summary>
+<summary><b>🎨 Frontend Craftsmanship</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web_Components-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & API Development</b></summary>
+<summary><b>⚙️ Backend Architecture</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 
 </details>
 
 <details open>
-<summary><b>🗃️ Database & Cloud Infrastructure</b></summary>
+<summary><b>☁️ Cloud & DevOps Mastery</b></summary>
 <br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🧠 AI & Machine Learning</b></summary>
+<summary><b>🧠 AI & Advanced Computing</b></summary>
 <br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F61?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge)
 
 </details>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Signature Projects</h2>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">FormLab 📝</h3>
-<div align="center">
-<a href="https://formlab.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/formlab-preview.png" width="100%" alt="FormLab"/></a>
-<br/>
-<br/>
-<p>
-<a href="https://formlab.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-6E57F7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Vyas106/FormLab" target="_blank">
-<img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-<p><strong>Next.js, Prisma, PostgreSQL, Clerk Auth</strong> - A modern form builder with advanced features, GDPR compliance, and real-time collaboration capabilities.</p>
-</div>
-                                                                                      
-</td>
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">
 
-<td width="50%">
-<h3 align="center">CodeLab 💻</h3>
-<div align="center">
-<a href="https://codelab-one.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/codelab-preview.png" width="100%" alt="CodeLab"/></a>
-<br/>
-<br/>
-<p>
-<a href="https://codelab-one.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-6E57F7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Vyas106/CodeLab" target="_blank">
-<img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-<p><strong>Next.js, TypeScript, TailwindCSS</strong> - An innovative platform fostering coding excellence through workshops, challenges, and collaborative learning.</p>
+<div style="border: 1px solid #2f3640; border-radius: 10px; padding: 15px; background: #1e272e;">
+  <h3>FormLab 📝</h3>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe src="https://formlab.vercel.app/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;"></iframe>
+  </div>
+  <div style="margin-top: 15px;">
+    <a href="https://formlab.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-6E57F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Vyas106/FormLab" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+  <p><strong>Tech Stack:</strong> Next.js 14, tRPC, PostgreSQL, WebSockets</p>
 </div>
-</td>
-</tr>
 
-<tr>
-<td width="50%">
-<h3 align="center">Face Recognition System 👁️</h3>
-<div align="center">
-<a href="https://github.com/Vyas106/FRAS" target="_blank"><img src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/fras-preview.png" width="100%" alt="FRAS"/></a>
-<br/>
-<br/>
-<p>
-<a href="https://github.com/Vyas106/FRAS" target="_blank">
-<img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-<p><strong>Python, OpenCV, TensorFlow</strong> - Smart attendance system using facial recognition, developed for Smart India Hackathon.</p>
+<div style="border: 1px solid #2f3640; border-radius: 10px; padding: 15px; background: #1e272e;">
+  <h3>CodeLab 💻</h3>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe src="https://codelab-one.vercel.app/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;"></iframe>
+  </div>
+  <div style="margin-top: 15px;">
+    <a href="https://codelab-one.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-6E57F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Vyas106/CodeLab" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
+  <p><strong>Tech Stack:</strong> Next.js, WebAssembly, Real-time Collaboration</p>
 </div>
-</td>
 
-<td width="50%">
-<h3 align="center">Portfolio Website 🎨</h3>
-<div align="center">
-<a href="https://vishalvyas.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/portfolio-preview.png" width="100%" alt="Portfolio"/></a>
-<br/>
-<br/>
-<p>
-<a href="https://vishalvyas.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-6E57F7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Vyas106/portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-<p><strong>Next.js, GSAP, Framer Motion</strong> - Personal portfolio featuring interactive animations and seamless user experience.</p>
-</div>
-</td>
-</tr>
-</table>
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🏆 Engineering Excellence</h2>
+
+<div align="center">
+
+### System Design & Architecture
+- Designed scalable microservices handling 1M+ requests/day
+- Implemented event-driven architectures with Kafka
+- Optimized database performance and query execution
+
+### Performance Engineering
+- Reduced load times by 60% through advanced caching
+- Implemented lazy loading and code splitting strategies
+- Achieved 99.99% uptime for critical systems
+
+### Innovation & Leadership
+- Led adoption of WebAssembly for browser-based compilation
+- Pioneered AI-assisted code review processes
+- Mentored 20+ junior developers in modern web practices
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Impact</h2>
 
 <p align="center">
 <a href="https://github.com/Vyas106">
@@ -185,40 +167,6 @@
 </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyas106&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vyas106&theme=tokyonight&column=7&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
----
-
-<h2 align="center">🏆 Achievements & Leadership</h2>
-
-<div align="center">
-
-🥈 **AMPICS Hackathon Solo Winner**
-- Secured 2nd place demonstrating full-stack development expertise
-- Implemented modern tech stack and innovative solutions
-
-👑 **CodeLab Leadership**
-- Leading a community of 200+ student developers
-- Organizing workshops, hackathons, and tech talks
-- Building bridge between academia and industry
-
-🎯 **Competitive Excellence**
-- Champion at Ganpat University Group Discussion
-- Active contributor to open-source projects
-- Consistent problem-solver on coding platforms
-
-</div>
-
----
-
-<h2 align="center">💻 Coding Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vyas106&theme=tokyo-night" alt="Contribution Graph" />
 </div>
@@ -226,16 +174,13 @@
 ---
 
 <div align="center">
-  <h2>🤝 Let's Connect & Collaborate!</h2>
+  <h2>🤝 Let's Build the Future Together</h2>
   
-  <p>I'm always interested in working on innovative projects and connecting with fellow developers.</p>
+  <p>Open to collaborating on projects that push the boundaries of web technology</p>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E57F7?style=for-the-badge&logo=safari&logoColor=white)](https://vishalvyas.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6E57F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vyas-5292692aa)
   [![Email](https://img.shields.io/badge/Email-Contact-6E57F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyasvishal.work@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-6E57F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vyas106)
   
-  <p>💬 Feel free to reach out for collaborations or just a friendly chat!</p>
+  <p>💬 Let's discuss how we can create impactful solutions together!</p>
 </div>
-
-<div align="
