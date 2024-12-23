@@ -3,184 +3,170 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Vyas;Full+Stack+Developer;Tech+Innovator;Open+Source+Champion" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Vishal+Vyas+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;UI%2FUX+Explorer+%F0%9F%8E%A8" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vyas106&label=Profile%20Views&color=6E57F7&style=for-the-badge" alt="Profile views" />
   
-  [![GitHub followers](https://img.shields.io/github/followers/Vyas106?label=Followers&style=for-the-badge&color=6E57F7)](https://github.com/Vyas106)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6E57F7?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-vyas-5292692aa)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E57F7?style=for-the-badge&logo=safari)](https://vishalvyas.vercel.app)
-</div>
-
-<div align="center">
-  <h2>🚀 Tech Visionary | Problem Solver | Innovation Leader</h2>
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/coding.gif"/>
+  [![Profile Views](https://komarev.com/ghpvc/?username=Vyas106&label=Profile%20Views&color=6E57F7&style=flat-square)](https://github.com/Vyas106)
+  [![GitHub Followers](https://img.shields.io/github/followers/Vyas106?style=flat-square&color=6E57F7)](https://github.com/Vyas106?tab=followers)
+  [![LinkedIn](https://img.shields.io/badge/-Connect-6E57F7?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vishal-vyas-5292692aa)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-6E57F7?style=flat-square&logo=safari)](https://vishalvyas.vercel.app)
   
-  <p align="left" style="margin: 20px;">
-    🎯 Architecting the future of web with cutting-edge technologies<br/>
-    🌟 Transforming ideas into scalable, enterprise-grade solutions<br/>
-    🔮 Pioneering AI-driven development workflows<br/>
-    🎨 Crafting pixel-perfect, accessible user experiences<br/>
-    🌍 Building for the next billion users<br/>
-    ⚡ Fun fact: I can debug code faster than I can find my keys
-  </p>
 </div>
 
-<br clear="both">
+## 💫 About Me
 
----
+<img align="right" src="https://raw.githubusercontent.com/Vyas106/Vyas106/main/assets/coding.gif" width="400px" alt="coding gif"/>
 
-<h2 align="center">🛠️ Technology Excellence</h2>
+- 🚀 Full Stack Developer crafting seamless digital experiences
+- 👨‍💻 Leading CodeLab community of 200+ developers
+- 🌱 Mastering Next.js, React, and Cloud Technologies
+- 🎯 Focused on building scalable, high-performance applications
+- 🤝 Open for exciting collaborations and innovative projects
+- ⚡ Love solving complex algorithmic challenges
+- 🎨 Passionate about creating intuitive user interfaces
 
-<details open>
-<summary><b>🎨 Frontend Craftsmanship</b></summary>
-<br/>
+<br clear="both"/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Web Components](https://img.shields.io/badge/Web_Components-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
+
+```mermaid
+mindmap
+  root((Frontend))
+    Frameworks
+      React
+      Next.js
+      Vue.js
+    Languages
+      TypeScript
+      JavaScript
+    Styling
+      Tailwind CSS
+      SASS
+      CSS3
+    Animation
+      GSAP
+      Framer Motion
+    State Management
+      Redux
+      Zustand
+```
 </details>
 
-<details open>
-<summary><b>⚙️ Backend Architecture</b></summary>
-<br/>
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
-
+```mermaid
+mindmap
+  root((Backend))
+    Core
+      Node.js
+      Express
+      Python
+      Django
+    APIs
+      REST
+      GraphQL
+      WebSocket
+    Authentication
+      JWT
+      OAuth2
+      Clerk
+```
 </details>
 
-<details open>
-<summary><b>☁️ Cloud & DevOps Mastery</b></summary>
-<br/>
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-
+```mermaid
+mindmap
+  root((Cloud))
+    Platforms
+      AWS
+      Vercel
+      Firebase
+    Containers
+      Docker
+      Kubernetes
+    Databases
+      PostgreSQL
+      MongoDB
+      Redis
+```
 </details>
 
-<details open>
-<summary><b>🧠 AI & Advanced Computing</b></summary>
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F61?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge)
-
-</details>
-
----
-
-<h2 align="center">🚀 Signature Projects</h2>
-
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">
-
-<div style="border: 1px solid #2f3640; border-radius: 10px; padding: 15px; background: #1e272e;">
-  <h3>FormLab 📝</h3>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    <iframe src="https://formlab.vercel.app/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;"></iframe>
-  </div>
-  <div style="margin-top: 15px;">
-    <a href="https://formlab.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-6E57F7?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Vyas106/FormLab" target="_blank">
-      <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-  <p><strong>Tech Stack:</strong> Next.js 14, tRPC, PostgreSQL, WebSockets</p>
-</div>
-
-<div style="border: 1px solid #2f3640; border-radius: 10px; padding: 15px; background: #1e272e;">
-  <h3>CodeLab 💻</h3>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    <iframe src="https://codelab-one.vercel.app/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;"></iframe>
-  </div>
-  <div style="margin-top: 15px;">
-    <a href="https://codelab-one.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-6E57F7?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Vyas106/CodeLab" target="_blank">
-      <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-  <p><strong>Tech Stack:</strong> Next.js, WebAssembly, Real-time Collaboration</p>
-</div>
-
-</div>
-
----
-
-<h2 align="center">🏆 Engineering Excellence</h2>
+## 🚀 Featured Projects
 
 <div align="center">
 
-### System Design & Architecture
-- Designed scalable microservices handling 1M+ requests/day
-- Implemented event-driven architectures with Kafka
-- Optimized database performance and query execution
+### FormLab - Modern Form Builder
+<iframe src="https://formlab.vercel.app" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
 
-### Performance Engineering
-- Reduced load times by 60% through advanced caching
-- Implemented lazy loading and code splitting strategies
-- Achieved 99.99% uptime for critical systems
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
 
-### Innovation & Leadership
-- Led adoption of WebAssembly for browser-based compilation
-- Pioneered AI-assisted code review processes
-- Mentored 20+ junior developers in modern web practices
+[Live Demo](https://formlab.vercel.app) | [Source Code](https://github.com/Vyas106/FormLab)
+
+### CodeLab - Learning Platform
+<iframe src="https://codelab-one.vercel.app" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+[Live Demo](https://codelab-one.vercel.app) | [Source Code](https://github.com/Vyas106/CodeLab)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vyas106&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vyas106&theme=tokyonight&column=4&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+
+```mermaid
+gitGraph
+    commit id: "First Contribution"
+    branch development
+    commit id: "Feature A"
+    commit id: "Feature B"
+    checkout main
+    merge development
+    commit id: "Release v1.0"
+```
+
+</div>
+
+## 🏆 Achievements
+
+```mermaid
+timeline
+    title Career Milestones
+    2023 : AMPICS Hackathon : Solo Winner (2nd Place)
+    2023 : CodeLab : Community Lead
+    2024 : Open Source : 100+ Contributions
+    2024 : Competitive : 500+ Problems Solved
+```
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishalvyas.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vyas-5292692aa)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vyas106)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyasvishal.work@gmail.com)
 
 </div>
 
 ---
-
-<h2 align="center">📊 GitHub Impact</h2>
-
-<p align="center">
-<a href="https://github.com/Vyas106">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vyas106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyas106&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vyas106&theme=tokyo-night" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <h2>🤝 Let's Build the Future Together</h2>
-  
-  <p>Open to collaborating on projects that push the boundaries of web technology</p>
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E57F7?style=for-the-badge&logo=safari&logoColor=white)](https://vishalvyas.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6E57F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vyas-5292692aa)
-  [![Email](https://img.shields.io/badge/Email-Contact-6E57F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyasvishal.work@gmail.com)
-  
-  <p>💬 Let's discuss how we can create impactful solutions together!</p>
+  <sub>Built with ❤️ by Vishal Vyas</sub>
 </div>
