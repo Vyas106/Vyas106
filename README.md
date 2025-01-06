@@ -149,7 +149,7 @@
 - 👑 **CodeLab Leadership**: Built and leading a thriving tech community
 - 🎯 **Technical Excellence**: Champion at Ganpat University Group Discussion
 - 💻 **Open Source**: Active contributor to community projects
-- 🌟 **Mentorship**: Conducted 20+ workshops on modern web development
+- 🌟 **Mentorship**: Conducted 20+ workshops on modern web development 
 
 ## 🤝 Let's Connect
 
