@@ -154,7 +154,7 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://vishalvyas.vercel.app">
+  <a href="[https://vishalvyas.vercel.app](https://vyasvishal.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6E57F7?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vishal-vyas-5292692aa">
